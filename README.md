@@ -14,7 +14,7 @@
 
 ## Known issues
 * The text similarity scoring (jaccard) is very dumb right now and doesn't do any stemming/lemmatization or handle typos/variations of spellings
-* On massive graphs, steps (2) and (5) above are going to take a long time
+* On massive graphs, steps (3) and (5) above are going to take a long time
 
 
 ## Instructions
